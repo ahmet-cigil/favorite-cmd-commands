@@ -5,7 +5,7 @@ My favorite 3 cmd commands are as follows:
 ## cat
 It reads and prints files to an output.
 My favorite commands is cat because I like cats!
- 
+
 ## echo
 It prints something to the screen.
 I like this command since it echoes hat you type.
