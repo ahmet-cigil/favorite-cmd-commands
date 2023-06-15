@@ -13,4 +13,3 @@ This was one of the commands I like first when I started with bash scripting.
 
 ## mkdir
 I like how simple it is to make a directory without using the file manager or the mouse to wander around. Just cd command back and forth and mkdir command to do it!
-  
